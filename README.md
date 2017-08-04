@@ -1,4 +1,6 @@
-<a name="s"></a># nsplugins-internal
+<a name="s"></a>
+
+# nsplugins-internal
 |Name|Version|Downloads|Build|
 |----|-------|---------|-----|
 | Plugin Seed | | |[![Build Status](https://travis-ci.org/NativeScript/nativescript-plugin-seed.svg?branch=master)](https://travis-ci.org/NativeScript/nativescript-plugin-seed) |
