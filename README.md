@@ -1,4 +1,4 @@
-<a name="s"></a>
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/NativeScript/nsplugins-internal.svg?columns=all)](https://waffle.io/NativeScript/nsplugins-internal)
 
 # nsplugins-internal
 |Name|Version|Downloads|Build|
