@@ -1,4 +1,4 @@
-[Github Project](https://github.com/NativeScript/nsplugins-internal)
+[Github Project](https://github.com/orgs/NativeScript/projects/4)
 
 # nsplugins-internal
 |Name|Version|Downloads|Build Current| Build Next
